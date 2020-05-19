@@ -1,2 +1,2 @@
-# algorithms-in-c
-a wide range of algorithms for C programmers
+# base-conversion-algorithms-in-c
+programs to efficiently convert numbers to and from prominent bases(octal,hexadecimal,decimal,vinary) in C
